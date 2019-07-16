@@ -7,7 +7,12 @@
 @font-face {
 	font-family: 'FontAwesome';
 	src: url('../icon/fontawesome-webfont-v=4.5.0.eot');
-	src: url('../icon/fontawesome-webfont-.eot#iefix&v=4.5.0') format('embedded-opentype'), url('http://demo.2webros.com/myvitae/icons/fontawesome-webfont.woff2?v=4.5.0') format('woff2'), url('../icon/fontawesome-webfont-v=4.5.0.woff') format('woff'), url('../icon/fontawesome-webfont-v=4.5.0.ttf') format('truetype'), url('../icon/fontawesome-webfont-v=4.5.0.svg#fontawesomeregular') format('svg');
+	src: 
+		url('../icon/fontawesome-webfont-.eot#iefix&v=4.5.0') format('embedded-opentype'), 
+		url('http://demo.2webros.com/myvitae/icons/fontawesome-webfont.woff2?v=4.5.0') format('woff2'), 
+		url('../icon/fontawesome-webfont-v=4.5.0.woff') format('woff'), 
+		url('../icon/fontawesome-webfont-v=4.5.0.ttf') format('truetype'), 
+		url('../icon/fontawesome-webfont-v=4.5.0.svg#fontawesomeregular') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
