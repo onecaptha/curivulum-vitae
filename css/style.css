@@ -274,7 +274,7 @@ h1 {
 }
 .side-right {
 	right: 0;
-	background: url("../img/mainpic.png.jpeg") no-repeat center top;
+	background: url("../img/cv-image.jpg") no-repeat center top;
 	background-size: cover;/* avoid gap */
 }
 .open-right .portfolio {
