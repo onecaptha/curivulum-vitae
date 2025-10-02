@@ -72,9 +72,9 @@ function preload() {
 //-- usage --//
 //add your pics below to preload
 preload(
-    "img/blurpic.png",
-	"img/mainpic.png",
-	"img/profilepic.png",
+    "img/blurpic.png.jpeg",
+	"img/mainpic.png.jpeg",
+	"img/profilepic.png.jpeg",
 	"img/preloader.gif"
 )
 

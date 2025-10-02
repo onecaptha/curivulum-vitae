@@ -16,7 +16,7 @@
 	top: 1px;
 }
 .intro-content {
-	top: 37%;
+	/*top: 37%;*/
 }
 /*Intro left end here section*/
 
@@ -830,18 +830,18 @@ figure.effect-apollo p {
 	display: none;
 	opacity: 1;
 }
-.Portfolio {
+.portfolio {
 	right: -34px;
 	top: 45%;
 	height: 50px;
 	width: 60px;
 	line-height: 50px;
 }
-.Portfolioicon {
+.portfolioicon {
 	font-size: 16px;
 	padding-left: 10px;
 }
-.Portfolio p {
+.portfolio p {
 	display: none;
 }
 /*Intro right section end here*/
@@ -970,6 +970,12 @@ figure.effect-apollo p {
 }
 .open-right .side-right .intro-content {
 	display: none;
+}
+#resume .font300-heading {
+	padding-left: 60px;
+}
+#resume .education_row h3 {
+	font-size: 1em;
 }
 /*Open right section - left section end here */
 
